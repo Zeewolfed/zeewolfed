@@ -13,7 +13,7 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Splunk Investigation                          | <a href="https://github.com/Zeewolfed/Benign-THM-Challenge/tree/main">THM Benign Challenge</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
