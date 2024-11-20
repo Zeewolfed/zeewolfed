@@ -3,12 +3,10 @@
 
 After 20 years in one profession, I am transitioning to a career in cybersecurity. I have a profound interest in technology and enjoy understanding how things work. I also like communicating with people to raise awareness about cybersecurity.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
-My journey in cybersecurity is just beginning. My goal is to join a team in a SOC and progress quickly. I don’t have a final destination because, as Buzz Lightyear says, “To infinity and beyond!”—there’s always something new to learn. I love discovering new things and growing day by day.
+My journey in cybersecurity is just beginning. My goal is to join a team in a SOC and progress quickly. 
+I don’t have a final destination because, as Buzz Lightyear says, “To infinity and beyond!”—there’s always something new to learn. I love discovering new things and growing day by day.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
