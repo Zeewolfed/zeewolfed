@@ -54,5 +54,5 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Zeewolfed/Benign-THM-Challenge/tree/main">THM Benign Challenge</a>
 - SOC Automation Project
