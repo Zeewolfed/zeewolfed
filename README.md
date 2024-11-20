@@ -1,16 +1,24 @@
-## Hi there 👋
+# Detection Lab
+# PROJECTNAME
 
-<!--
-**Zeewolfed/zeewolfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Objective
+[Brief Objective]
+[Brief Objective - Remove this afterwards]
 
-Here are some ideas to get you started:
+The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills Learned
+[Bullet Points]
+[Bullet Points - Remove this afterwards]
+
+- Advanced understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and interpreting network logs.
+@@ -15,7 +15,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
+- Development of critical thinking and problem-solving skills in cybersecurity.
+
+### Tools Used
+[Bullet Points]
+[Bullet Points - Remove this afterwards]
+
+- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
