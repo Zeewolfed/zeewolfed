@@ -1,5 +1,5 @@
 # Hello, I'm Zeewolfed
-<a href="https://linkedin.comin/damien-c-08b073259/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/damien-c-08b073259/" ><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 After 20 years in one profession, I am transitioning to a career in cybersecurity. I have a profound interest in technology and enjoy understanding how things work. I also like communicating with people to raise awareness about cybersecurity.
 
