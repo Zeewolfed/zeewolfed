@@ -43,7 +43,7 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 </div>
 
 ## Certifications/Education
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+My learning journey
 <div>
     <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=KEEPLEARNING" target="_blank">
   <img src="https://img.shields.io/badge/-Complete%20Linux%20Training%20Course-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
