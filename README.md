@@ -66,6 +66,13 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 <a href="https://tryhackme.com/r/path/outline/beginner" target="_blank">
   <img src="https://img.shields.io/badge/-Beginner%20Path-2A2A72?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
+<a href="https://tryhackme.com/r/paths" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe%20Paths-2A2A72?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
+<a href="https://app.letsdefend.io/path/soc-analyst-learning-path" target="_blank">
+  <img src="https://img.shields.io/badge/-SOC%20Analyst%20Learning%20Path-2A2A72?&style=for-the-badge&logo=LetDefend&logoColor=white" />
+</a>
+
 
 
 </div>
