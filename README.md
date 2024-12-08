@@ -42,7 +42,7 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications/Education
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=KEEPLEARNING" target="_blank">
@@ -70,8 +70,9 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
   <img src="https://img.shields.io/badge/-TryHackMe%20Paths-2A2A72?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
 <a href="https://app.letsdefend.io/path/soc-analyst-learning-path" target="_blank">
-  <img src="https://img.shields.io/badge/-SOC%20Analyst%20Learning%20Path-2A2A72?&style=for-the-badge&logo=LetDefend&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Path%20LetDefend-2A2A72?&style=for-the-badge&logo=LetDefend&logoColor=white" />
 </a>
+
 
 
 
