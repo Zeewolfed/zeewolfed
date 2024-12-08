@@ -45,11 +45,23 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=KEEPLEARNING" target="_blank">
+  <img src="https://img.shields.io/badge/-Complete%20Linux%20Training%20Course-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+<a href="https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US" target="_blank">
+  <img src="https://img.shields.io/badge/-Operating%20Systems%20Basics%20Course-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
+<a href="https://www.netacad.com/courses/networking-basics?courseLang=en-US" target="_blank">
+  <img src="https://img.shields.io/badge/-Networking%20Basics%20Course-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
+<a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+  <img src="https://img.shields.io/badge/-CCNA%20-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
+
+
 </div>
 
 ## Projects
