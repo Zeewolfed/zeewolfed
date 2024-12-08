@@ -60,6 +60,12 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
   <img src="https://img.shields.io/badge/-CCNA%20-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </a>
+<a href="https://tryhackme.com/r/path/outline/introtocyber" target="_blank">
+  <img src="https://img.shields.io/badge/-Intro%20to%20Cybersecurity%20Path-2A2A72?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/r/path/outline/beginner" target="_blank">
+  <img src="https://img.shields.io/badge/-Beginner%20Path-2A2A72?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
 
 
 </div>
