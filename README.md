@@ -44,11 +44,11 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 ## Certifications/Education
 My learning journey
 <div>
-    <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=KEEPLEARNING" target="_blank">
-  <img src="https://img.shields.io/badge/-Complete%20Linux%20Training%20Course-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
-</a>
 <a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+    <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/?couponCode=KEEPLEARNING" target="_blank">
+  <img src="https://img.shields.io/badge/-Complete%20Linux%20Training%20Course-EC5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
 </a>
 <a href="https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US" target="_blank">
   <img src="https://img.shields.io/badge/-Operating%20Systems%20Basics%20Course-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
