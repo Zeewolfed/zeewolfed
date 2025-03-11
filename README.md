@@ -12,8 +12,8 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Investigation                          | <a </a>|
-|  | <a </a>|
+| building...                     | |
+|  | |
 |  | |
 |  | |
 |  | |
