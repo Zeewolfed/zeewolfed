@@ -12,12 +12,12 @@ I don’t have a final destination because, as Buzz Lightyear says, “To infini
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Investigation                          | <a href="https://github.com/Zeewolfed/Benign-THM-Challenge/tree/main">THM Benign Challenge</a>|
-|  | <a href="https://google.com">Detection Lab</a>|
-|  | SOC Automation Lab|
-|  | SOC Automation Lab|
-|  | SOC Automation Lab|
-|  | SOC Automation Lab|
+| Splunk Investigation                          | <a </a>|
+|  | <a </a>|
+|  | |
+|  | |
+|  | |
+|  | |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
